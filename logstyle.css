@@ -1,0 +1,59 @@
+
+.contain{
+    float: right;
+   
+    width: 45.9%;
+
+  background-color: white;
+  padding: 25px;
+  /* margin-right: 25px; */
+  /* margin-left: 8px; */
+  margin-top: 80px;
+  border-radius: 8px;
+  margin-right: 50px;
+
+
+
+}
+
+
+
+
+.log{
+
+   
+    float: left;
+    width: 40%;
+    /* margin: 20px; */
+    /* margin: 25%; */
+    margin-top: 80px; 
+    margin-left: 25%; 
+
+    
+    }
+
+body{
+
+
+    background-size: cover;
+    background-repeat:no-repeat ;
+}
+
+
+.form-contain{
+
+
+    background: #fff;
+    padding: 35px;
+    border-radius: 10px;
+    box-shadow: 10x,0px,10px,10px,#000000;
+
+}
+.loggg{
+
+
+
+
+
+
+}
